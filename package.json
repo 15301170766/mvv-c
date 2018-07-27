@@ -12,6 +12,11 @@
   "dependencies": {
     "axios": "^0.18.0",
     "iview": "^2.14.3",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.2.5",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

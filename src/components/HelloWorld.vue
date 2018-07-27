@@ -95,7 +95,7 @@
                 modal3: false,
                 value:"hahaha",
                 TableId:"",
-                URL:"http://e21cd618.ngrok.io",
+                URL:"http://localhost:3000",
                 Name:"",
                 parent:"",
                 total:100,
